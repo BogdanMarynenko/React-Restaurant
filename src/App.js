@@ -12,7 +12,7 @@ import { Category } from './pages/Category';
 function App() {
   return (
   <>
-<BrowserRouter>
+<BrowserRouter basename='/React-Restaurant'>
   <Header/>
   <main className="container content">
 
